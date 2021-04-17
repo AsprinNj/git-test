@@ -10,7 +10,9 @@ public class FirstClass {
 
     }
     public static  void fun(){
+
         int i = 1;
+        int i1 = 1;
 
     }
 }
